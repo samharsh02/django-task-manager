@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+env/
+task_m/  # Add your virtual environment name here
+
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Database
+db.sqlite3
+
+# Django Secret Key
+.env
+
+# Static and media files
+staticfiles/
+media/
+
+# VS Code and PyCharm
+.vscode/
+.idea/
