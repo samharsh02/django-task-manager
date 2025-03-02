@@ -1,7 +1,7 @@
 # Virtual environment
 venv/
 env/
-task_m/  # Add your virtual environment name here
+task_m/  
 
 # Byte-compiled / cache files
 __pycache__/
